@@ -1,2 +1,2 @@
 # Machine-Learning
-Modelos para Aprendizado de Máquina
+Portifolio meu com modelos de Machine Learning, Deep Learning, estudos, materiais e etc.
